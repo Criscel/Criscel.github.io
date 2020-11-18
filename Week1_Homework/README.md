@@ -8,6 +8,5 @@ The goal for this project is to refractor the HTML and CSS codes without changin
 Making sure that the .CSS file and images are properly linked into the .HTML file.
 
 ## Usage
-'''md
-![Whole page screenshot](assets/images/screenshot.png)
-```
+
+![Whole_Page](../Week1_Homework/Assets/wholepage.png)
